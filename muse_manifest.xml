@@ -1,0 +1,27 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="infoela.com" resolutions="1x" timestamp="1459709038285">
+  <folder name="css">
+    <file name="site_global.css" crc="453856629"/>
+    <file name="master_a-master.css" crc="295552425" ref="index"/>
+    <file name="index.css" crc="4098248678" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-photo-14676-large.jpg" crc="422117083" ref="index"/>
+    <file name="12036698_918190641588342_729798823122209557_n.jpg" crc="284093405" seo="true" ref="index"/>
+    <file name="people-woman-coffee-meeting-large.jpg" crc="4075181281" ref="index"/>
+    <file name="writing-notes-idea-conference-large.jpg" crc="125381503" ref="index"/>
+    <file name="writing-notes-idea-conference-large-u909-fr.jpg" crc="4219205479" ref="index"/>
+    <file name="people-woman-coffee-meeting-large-u899-fr.jpg" crc="3899148096" ref="index"/>
+    <file name="pasted image 512x512.png" crc="357772580" seo="true" ref="index"/>
+    <file name="pasted image 128x128.png" crc="454668523" seo="true" ref="index"/>
+    <file name="pasted image 512x5122.png" crc="4185586033" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3769495647" seo="true" mt="1459708764858" redirect="true"/>
+</manifest>
